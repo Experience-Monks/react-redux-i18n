@@ -1,1 +1,7 @@
-# Create localize website with React + Redux
+React Redux app localization example.
+
+## Installation
+```npm i```
+
+## Run
+```npm start```

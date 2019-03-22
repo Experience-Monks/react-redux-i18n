@@ -1,8 +1,8 @@
 {
   "name": "react-redux-i18n",
   "version": "1.0.0",
-  "description": "Localize website",
-  "keywords": [],
+  "description": "React Redux i18n",
+  "keywords": ["jam3", "i18n", "i18next", "react-i18next", "create-react-app", "react", "redux"],
   "main": "src/index.js",
   "dependencies": {
     "history": "4.7.2",
@@ -21,6 +21,10 @@
     "redux": "4.0.1",
     "redux-devtools-extension": "2.13.8"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jam3/react-redux-i18n.git"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
@@ -28,5 +32,13 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "contributors": [
+    "Vadim Namniak <vadim@jam3.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/react-redux-i18n/issues"
+  },
+  "homepage": "https://github.com/Jam3/react-redux-i18n#readme",
   "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }

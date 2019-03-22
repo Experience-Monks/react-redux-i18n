@@ -1,1 +1,1 @@
-# react-redux-i18n
+# Create localize website with React + Redux
